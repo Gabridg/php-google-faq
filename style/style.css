@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #3c4043;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 20px 0;
+}
+
+.list-alpha {
+    list-style-type: lower-alpha;
+    margin: 20px 40px;
+}
+
+a {
+    color: #5b85de;
+}
